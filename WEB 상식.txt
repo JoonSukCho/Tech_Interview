@@ -58,3 +58,25 @@ Cookie
 
 Session과 Cookie의 차이
  - https://hahahoho5915.tistory.com/32
+
+
+Javascript Set
+ - 중복되지 않는 값들의 리스트 (ES6부터 있는 데이터 타입)
+
+
+Javascript .forEach와 .map의 차이점
+ - 둘 다 배열의 요소를 반복하지만, .map은 새로운 배열을 반환함.
+
+
+호이스팅(Hoisting)
+ - var 선언문이나 function 선언문 등을 해당 스코프의 선두로 옮겨 선언 하는 것.
+
+
+var, let, const의 차이
+ - var : 재선언, 재할당 가능, 호이스팅 발생
+ - let : 재선언 불가능, 재할당 가능, 호이스팅 발생x
+ - const : 재선언, 재할당 불가능, 호이스팅 발생x
+
+
+클로저란?
+ - 두 개의 함수로 만들어진 환경으로, 클로저를 통해 js에는 없는 private 메소드를 구현할 수 있다.
