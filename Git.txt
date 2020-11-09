@@ -1,0 +1,6 @@
+
+git의 작동 원리
+
+Working Directory에서 git add시 Staging Area에 반영
+Staging Area에서 git commit시 Local Repository에 반영
+Local Repository에서 git push시 Remote Repository에 반영
